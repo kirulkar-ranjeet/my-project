@@ -9,8 +9,6 @@ echo "..............................................."
 
 total_file_cnt_pwd=$(ls | wc -l)
 
-echo "total cnt of file in pwd is = $total_file_cnt_pwd"
-
 
 #If the user's answer is incorrect the user should be advised that their guess was either too low or too high and then they should be prompted to try to guess again.
 echo "..............................................."
